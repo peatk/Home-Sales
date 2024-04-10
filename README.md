@@ -1,4 +1,4 @@
-#### Home Sales Data Analysis with SparkSQL
+## Home Sales Data Analysis with SparkSQL
 This project focuses on analyzing home sales data using SparkSQL. The dataset provided contains information about home sales, and various queries are performed to derive key metrics. The tasks include creating temporary views, partitioning data, caching tables, and analyzing query runtimes.
 
 #### Files
